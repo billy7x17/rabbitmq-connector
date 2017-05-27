@@ -1,0 +1,10 @@
+#rabbitmq:
+#  hosts: 10.10.167.35:5672
+#  username: openstack
+#  password: 123456
+#  virtual-host: /
+#
+#queueConfig:
+#  queueNames:
+#    - notifications.info
+#    - notifications.error
